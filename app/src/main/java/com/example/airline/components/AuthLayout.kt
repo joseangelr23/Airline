@@ -31,7 +31,7 @@ fun AuthLayout(
     Box(modifier = Modifier.fillMaxSize()) {
 
         Image(
-            painter = painterResource(id = R.drawable.bgairline),
+            painter = painterResource(id = R.drawable.bgairport),
             contentDescription = null,
             contentScale = ContentScale.Crop,
             modifier = Modifier.fillMaxSize()
